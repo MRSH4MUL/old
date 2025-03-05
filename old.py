@@ -64,7 +64,7 @@ class Main:
 \033[1;95m➣ \033[1;92mTOOLS      :            UID CLONE
 \033[1;97m••••••••••••••••••••••••••••••••••••••••••••••••••••••••
     """)
-		print("%s [%sâ€¢%s] %sTELIGERM: %https://t.me/AnonymousCyberShield"%(G,R,G,Y,G))
+		print("%s [%sâ€¢%s] %sTELIGERM: https://t.me/AnonymousCyberShield"%(G,R,G,Y,G))
 		print("%s [%sâ€¢%s] %sVERSION   : %s1.1"%(G,R,G,Y,G))
 		print("\n\x1b[1;93m••••••••••••••••••••••••••••••••••••••••••••••••••••••••  ")
 		print("\n%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s"%(G,R,G,Y,W))
